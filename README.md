@@ -48,6 +48,13 @@
   </p>
 </section>
 
+### 💻 My Workflow
+
+Although this is my GitHub profile, most of my work and projects are hosted on **GitLab**.  
+You can check out my activity, repositories, and contributions there:
+
+[![GitLab](https://img.shields.io/badge/GitLab-Visit-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ettore.pw)
+
 <h2 align="center"><u>My Best Works</u></h2>
 
 | Name | Description | Tech |
@@ -78,10 +85,6 @@
   </ul>
 </section>
 
-### 📊 Stats
 
-![Ettore's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=EttorePW&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EttorePW&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
 
-![Stalkers Count](https://komarev.com/ghpvc/?username=EttorePW&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
 
