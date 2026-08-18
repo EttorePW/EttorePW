@@ -3,11 +3,13 @@
 </div>
 
 <header>
-<h1 align="center"><b>Hi , I'm Ettore Pesendorfer </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center"><b>Hi , I'm Ettore Junior Pesendorfer-Wagner </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=A+Full-Stack+Software+Developer;++;Front-End+Developer,;Back-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
-</p>^
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=A+Full-Stack+Software+Developer;Front-End+Developer;Back-End+Developer;Active+Learner/Researcher;Love+to+learn+new+things">
+  </a>
+</p>
 </header>
 
 <section style="max-width:900px; margin:40px auto; background:#fff; padding:30px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
@@ -18,7 +20,6 @@
     where I combine creativity with technical precision.<br/><br/>
      - 📫 How to reach me: **ettore.pw@gmail.com**
   </p>
- 
 </section>
 
 <section style="max-width:900px; margin:40px auto; background:#fff; padding:30px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
@@ -48,23 +49,19 @@
   </p>
 </section>
 
-### 💻 My Workflow
-
-Although this is my GitHub profile, most of my work and projects are hosted on **GitLab**.  
-You can check out my activity, repositories, and contributions there:
-
-[![GitLab](https://img.shields.io/badge/GitLab-Visit-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ettore.pw)
-
 <h2 align="center"><u>My Best Works</u></h2>
 
 | Name | Description | Tech |
 |------|-------------|------|
-| _[IBHV App](https://ibhv-app.netlify.app/)_ | Full-stack church management app: manage ministries, services, members,finance and planning. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
+| _[BibleMemorize](https://biblememorize-f3662.web.app/)_ | Web game to memorize the Bible: sort and order the 66 books, complete the words, memorize verses and play Bible quizzes. Real-time multiplayer and 3 languages (ES/DE/EN). |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
+| _[TIP-APP](https://tip-app-46d5f.web.app/)_ | Full-stack tips management app for teams, shops and workers: record and auto-distribute tips, monthly reports with charts, vacation weeks & bonus calculation and Excel import/export. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
+| _[My Lager](https://mylager-b4cba.web.app/)_ | Development of a full-stack inventory and order management application featuring real-time stock monitoring supplier management, automated delivery scheduling, and interactive business intelligence dashboards. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
+| _[Q-Manager](https://q-manager-e25dc.web.app/)_ | Full-stack quality management system: create audits, track corrective actions, generate PDF reports, and manage quality standards across multiple locations. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
+| _[IBHV App](https://ibhv-app.netlify.app/)_ | Full-stack church management app: manage ministries, services, members, and planning. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> |
 | _[Coders Center](https://ettorepesendorfer.netlify.app/)_ | Full-stack institute management app: manage students, trainers, class schedules, attendance, and more. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> |
 | _[Kino](https://ettorepesendorfer.netlify.app/)_ | Cinema management app: manage cinemas and halls, seat reservations, and browse the movie catalog. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> |
 | _[My Books](https://ettorepesendorfer.netlify.app/)_ | Personal library organizer: add books manually or by ISBN code, with frontend and backend. |  <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> |
-| _[My Tasks](https://ettorepesendorfer.netlify.app/)_ | Task manager app for personal with backend. | <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> |
-
+| _[My Tasks](https://ettorepesendorfer.netlify.app/)_ | Task manager app for personal use with backend. | <img src="https://img.icons8.com/office/48/000000/react.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20"/> |
 
 <section style="max-width:900px; margin:40px auto; background:#fff; padding:30px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
   <h2 style="color:#111; border-bottom:2px solid #eee; padding-bottom:8px;">📘 Education</h2>
@@ -75,7 +72,6 @@ You can check out my activity, repositories, and contributions there:
   </ul>
 </section>
 
-
 <section style="max-width:900px; margin:40px auto; background:#fff; padding:30px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);">
   <h2 style="color:#111; border-bottom:2px solid #eee; padding-bottom:8px;">🌱 Interests</h2>
   <ul style="padding-left:20px;">
@@ -85,6 +81,6 @@ You can check out my activity, repositories, and contributions there:
   </ul>
 </section>
 
+### 📊 Stats
 
-
-
+![Ettore's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=ettore.pw&show_icons=true)
